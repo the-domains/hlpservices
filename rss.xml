@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[HLPservices]]></title>
+        <description><![CDATA[HLPservices]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 21 Feb 2016 02:29:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>HLP Services and The Grid, creating a better user experience! HLP Services is committed to working with individuals, businesses and non-profit organizations towards creating the future they have dreamed of. We do this through what seems like a simple concept, determine what you want, figure out what you have and make a plan to get from point A to point B! </p>]]></description>
+            <link>undefineded564a1b-09c5-4329-9382-a032462bd60a/index.html</link>
+            <guid isPermaLink="false">ed564a1b-09c5-4329-9382-a032462bd60a</guid>
+            <pubDate>Sun, 21 Feb 2016 02:29:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
